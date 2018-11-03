@@ -2,5 +2,9 @@
 int main
 {
     cout << "Hello World" << endl;
-    cout << "Creating a new branch is quick & simple" << endl;
+<<<<<<< HEAD
+    cout << "Creating a new branch is quick and simple" << endl;
+=======
+    cout << "Creating a new branch is quick and simple" << endl;
+>>>>>>> feature1
 }
